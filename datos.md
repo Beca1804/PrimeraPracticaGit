@@ -1,1 +1,1 @@
-![Belah Bebe](./belah.jpeg "En el parque")
+![Belah Bebe](./belah.jpeg?raw=true "En el parque")
